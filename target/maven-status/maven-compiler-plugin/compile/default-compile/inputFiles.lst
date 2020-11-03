@@ -1,0 +1,12 @@
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\Delivered.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\PaymentCanceled.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\StatusViewApplication.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\config\kafka\KafkaProcessor.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\Ordered.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\StatusViewRepository.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\StatusViewViewHandler.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\AbstractEvent.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\StatusView.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\OrderCanceled.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\Paid.java
+C:\dev\intensive\newpizza_reqres\StatusView\src\main\java\newpizza\PolicyHandler.java
