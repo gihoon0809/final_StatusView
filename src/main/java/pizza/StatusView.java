@@ -1,4 +1,4 @@
-package newpizza;
+package pizza;
 
 import javax.persistence.*;
 import java.util.List;
