@@ -7,7 +7,6 @@ import java.util.List;
 
 public interface StatusViewRepository extends CrudRepository<StatusView, Long> {
 
-    // LDH 20201104 중복 건 삭제
+    //LDH 중복 삭제
     List<StatusView> findByOrderId(Long orderId);
-
 }
